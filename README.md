@@ -9,16 +9,12 @@ cd MouseMover
 python -m venv venv
 venv\Scripts\activate.bat
 pip install -r requirements.txt
-
-python mousemover.py
 ```
 > LINUX
 ```sh
 cd MouseMover && python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-
-python mousemover.py
 ```
 
 * Run
